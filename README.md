@@ -238,7 +238,8 @@ Successful activation is indicated by "(base)" displayed at the beginning of the
 <!-- EN -->
 
 - **MAC and Linux Users**:
-  1. Download and install miniforge using the command line:
+  
+1. Download and install miniforge using the command line:
 
 ```bash
 curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"

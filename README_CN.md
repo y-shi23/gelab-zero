@@ -218,7 +218,8 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 
 - **Mac 和 Linux 用户**：
-  1. 使用命令行下载并安装 miniforge：
+
+1. 使用命令行下载并安装 miniforge：
 ```bash
 curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
 bash Miniforge3-$(uname)-$(uname -m).sh
