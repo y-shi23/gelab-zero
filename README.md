@@ -23,6 +23,14 @@
 * 🎁 **[2025-11]** We release the current **GELab-Zero** engineering infrastructure.
 * 🎁 **[2025-10]** Our [research paper](https://openreview.net/pdf/ce35fb684e3b11b9c0f1fcc38598cfb3504c728e.pdf) on **Multi-Turn RL** is accepted by **NeurIPS 2025**.
 
+## 👏Thanks Bar
+This project benefits greatly from external open-source resources.
+We thank the following projects and authors for providing tutorials, scripts, and quantization tools:
+- GGUF Quantization
+  - [**Bartowski/stepfun-ai_GELab-Zero-4B-preview-GGUF**](https://huggingface.co/bartowski/stepfun-ai_GELab-Zero-4B-preview-GGUF)
+- Tutorials
+  - [**Deploy&Infer**](http://xhslink.com/o/1WrmgHGWFYh)
+
 ## 📑 Table of Contents
 
 - [📖 Background](#-background)
