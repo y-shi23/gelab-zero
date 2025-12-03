@@ -18,12 +18,11 @@
 ## 📰 News
 
 * 🎁 **[Coming Soon...]**
-* 🎁 **[2025-12]** We thank the following projects and authors for providing tutorials: [Deploy Tutorials](http://xhslink.com/o/1WrmgHGWFYh).
-* 🎁 **[2025-12]** We thank the following projects and authors for providing quantization tools: [GGUF_v1](https://huggingface.co/bartowski/stepfun-ai_GELab-Zero-4B-preview-GGUF), [GGUF_v2](https://huggingface.co/noctrex/GELab-Zero-4B-preview-GGUF), [EXL3](https://huggingface.co/ArtusDev/stepfun-ai_GELab-Zero-4B-preview-EXL3).
+* 🎁 **[2025-12]** We thank the following projects and authors for providing quantization tools & tutorials: [GGUF_v1](https://huggingface.co/bartowski/stepfun-ai_GELab-Zero-4B-preview-GGUF), [GGUF_v2](https://huggingface.co/noctrex/GELab-Zero-4B-preview-GGUF), [EXL3](https://huggingface.co/ArtusDev/stepfun-ai_GELab-Zero-4B-preview-EXL3), [Tutorials_v1](http://xhslink.com/o/1WrmgHGWFYh), [Tutorials_v2](https://www.youtube.com/watch?v=4BMiDyQOpos)
 * 🎁 **[2025-11]** We release a lightweight **4B model** on [**Hugging Face**](https://huggingface.co/stepfun-ai/GELab-Zero-4B-preview) and [**Model Scope**](https://modelscope.cn/models/stepfun-ai/GELab-Zero-4B-preview).
 * 🎁 **[2025-11]** We release the tasks from the [**AndroidDaily**](https://huggingface.co/datasets/stepfun-ai/AndroidDaily) benchmark.
 * 🎁 **[2025-11]** We release the current **GELab-Zero** engineering infrastructure.
-* 🎁 **[2025-10]** Our [research paper](https://openreview.net/pdf/ce35fb684e3b11b9c0f1fcc38598cfb3504c728e.pdf) on **Multi-Turn RL** is accepted by **NeurIPS 2025**.
+* 🎁 **[2025-10]** Our [research](https://github.com/summoneryhl/gelab-engine) paper on **GELab-Engine** is accepted by **NeurIPS 2025**.
 
 
 ## 📑 Table of Contents
