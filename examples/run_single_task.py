@@ -74,7 +74,8 @@ if __name__ == "__main__":
     # task = "打开微信，给柏茗，发helloworld"
     # task = "打开 给到 app，在主页，下滑寻找，员工权益-奋斗食代，帮我领劵。如果不能领取就退出。"
     # task = "open wechat to send a message 'helloworld' to 'TKJ'"
-    task = "去小红书上搜索3个北京到大同的旅游攻略的帖子，根据这些帖子的内容，请你整理出一个周五晚上出发、周日晚上返回的方案"
+    # task = "去小红书上搜索3个北京到大同的旅游攻略的帖子，根据这些帖子的内容，请你整理出一个周五晚上出发、周日晚上返回的方案"
+    task = "去小红书看看我最近都收到了哪些赞，然后去B站会员中心帮我领取一下经验包，最后去网易云音乐看看我最近听的3首歌，并且打开手机便签，将歌名记到便签里面"
 
     tmp_rollout_config = local_model_config
     l2_server = LocalServer(tmp_server_config)
