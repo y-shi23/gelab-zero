@@ -5,3 +5,4 @@ output/
 gelab-zero-4b-preview/
 .claude/
 __pycache__/
+running_log
